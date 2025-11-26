@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+  <diagram name="Página-1" id="5QWsv5LTEFbbYSEfJ-QL">
+    <mxGraphModel dx="2895" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador" vertex="1">
+          <mxGeometry height="160" width="90" x="129" y="449" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-22" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 25%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Caso de uso 1:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Iniciar sesión como administrador&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-406" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-4" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;LOOLHA VIRTUAL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="333.5" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-21" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 15%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Caso de uso 2:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Agregar platillo o bebida al menú&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-406" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-20" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 25%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 3:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Consultar platillos y bebidas del menú&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-406" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-23" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 15%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 4:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Actualizar platillo o bebida existente&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-406" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-24" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 25%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 5:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Eliminar platillo o bebida del menú&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-416" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-25" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 15%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 6:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Cerrar sesión&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-416" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="39" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-26" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ih8B0XyiQoAeeOpWBh3t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Usuarios" vertex="1">
+          <mxGeometry height="160" width="90" x="520" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-44" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 25%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 1:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Acceder al menú del restaurante&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="840" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-46" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 15%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 2:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Consultar información “Acerca de”&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="840" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-45" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Ih8B0XyiQoAeeOpWBh3t-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;line-height: 25%;&quot;&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Caso de uso 3:&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;&lt;h4 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;Enviar mensaje de contacto&lt;/font&gt;&lt;/h4&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="840" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="680" y="509" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih8B0XyiQoAeeOpWBh3t-47" edge="1" parent="1" source="Ih8B0XyiQoAeeOpWBh3t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ih8B0XyiQoAeeOpWBh3t-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
